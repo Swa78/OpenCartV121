@@ -1,0 +1,45 @@
+2026-01-11 12:53:30 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+
+2026-01-11 12:53:37 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2026-01-11 12:53:37 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2026-01-11 12:53:38 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2026-01-11 12:55:17 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+
+2026-01-11 12:55:59 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+
+2026-01-11 12:56:17 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+
+2026-01-11 12:56:24 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2026-01-11 12:56:24 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2026-01-11 12:56:25 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2026-01-11 12:56:34 INFO  testCases.TC002_LoginTest - *****Starting of TC002_LoginTest******
+2026-01-11 12:58:57 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+
+2026-01-11 12:59:04 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2026-01-11 12:59:04 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2026-01-11 12:59:05 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2026-01-11 12:59:12 INFO  testCases.TC002_LoginTest - *****Starting of TC002_LoginTest******
+2026-01-11 13:31:32 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+
+2026-01-11 13:40:19 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+
+2026-01-11 13:41:54 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+
+2026-01-11 13:46:16 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+
+2026-01-11 13:51:43 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\CrossBrowserTesting.xml
+
+2026-01-11 13:51:43 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2026-01-11 13:57:31 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+

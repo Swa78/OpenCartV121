@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-01T15:16:09 IST" name="Surefire suite" finished-at="2026-02-01T15:16:23 IST" duration-ms="14392">
+    <groups>
+      <group name="Master">
+        <method signature="TC002_LoginTest.Verify_login()[pri:0, instance:testCases.TC002_LoginTest@767e20cf]" name="Verify_login" class="testCases.TC002_LoginTest"/>
+        <method signature="TC_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC_AccountRegistrationTest@17a1e4ca]" name="verify_account_registration" class="testCases.TC_AccountRegistrationTest"/>
+      </group> <!-- Master -->
+      <group name="Regression">
+        <method signature="TC_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC_AccountRegistrationTest@17a1e4ca]" name="verify_account_registration" class="testCases.TC_AccountRegistrationTest"/>
+      </group> <!-- Regression -->
+      <group name="sanity">
+        <method signature="TC002_LoginTest.Verify_login()[pri:0, instance:testCases.TC002_LoginTest@767e20cf]" name="Verify_login" class="testCases.TC002_LoginTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2026-02-01T15:16:09 IST" name="Surefire test" finished-at="2026-02-01T15:16:23 IST" duration-ms="14392">
+      <class name="testCases.TC002_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@767e20cf]" started-at="2026-02-01T15:16:09 IST" name="setup" finished-at="2026-02-01T15:16:15 IST" duration-ms="6074" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_login()[pri:0, instance:testCases.TC002_LoginTest@767e20cf]" started-at="2026-02-01T15:16:15 IST" name="Verify_login" finished-at="2026-02-01T15:16:16 IST" duration-ms="1633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_login -->
+      </class> <!-- testCases.TC002_LoginTest -->
+      <class name="testCases.TC_AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_AccountRegistrationTest@17a1e4ca]" started-at="2026-02-01T15:16:16 IST" name="setup" finished-at="2026-02-01T15:16:22 IST" duration-ms="5160" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_account_registration()[pri:0, instance:testCases.TC_AccountRegistrationTest@17a1e4ca]" started-at="2026-02-01T15:16:22 IST" name="verify_account_registration" finished-at="2026-02-01T15:16:23 IST" duration-ms="1475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_account_registration -->
+      </class> <!-- testCases.TC_AccountRegistrationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

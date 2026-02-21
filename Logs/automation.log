@@ -1,0 +1,8 @@
+2026-02-01 12:02:11 INFO  testCases.TC002_LoginTest - *****Starting of TC002_LoginTest******
+2026-02-01 12:02:19 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2026-02-01 12:02:20 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2026-02-01 12:02:21 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2026-02-01 15:16:15 INFO  testCases.TC002_LoginTest - *****Starting of TC002_LoginTest******
+2026-02-01 15:16:22 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2026-02-01 15:16:22 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2026-02-01 15:16:22 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**

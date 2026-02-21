@@ -1,0 +1,142 @@
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  C:\Users\Swapnilb\AppData\Local\Temp\testng-eclipse-1017560418\testng-customsuite.xml
+
+2025-12-07 16:31:10 INFO  org.testng.log4testng.Logger - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-12-07 16:31:18 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 16:31:21 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2025-12-07 16:31:22 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2025-12-07 16:31:22 ERROR testCases.TC_AccountRegistrationTest - Test Failed..
+2025-12-07 16:31:22 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.reporters.jq.Main@746b18fd: 59 ms
+2025-12-07 16:31:22 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.reporters.FailedReporter@676ff3b0: 11 ms
+2025-12-07 16:31:22 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.reporters.XMLReporter@15bc339: 9 ms
+2025-12-07 16:31:22 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6d171ce0: 7 ms
+2025-12-07 16:31:22 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5327a06e: 10 ms
+2025-12-07 16:31:22 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2679311f: 0 ms
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  C:\Users\Swapnilb\AppData\Local\Temp\testng-eclipse-130013104\testng-customsuite.xml
+
+2025-12-07 16:57:27 INFO  org.testng.log4testng.Logger - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-12-07 16:57:33 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 16:57:36 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2025-12-07 16:57:37 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2025-12-07 16:57:37 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.reporters.jq.Main@746b18fd: 51 ms
+2025-12-07 16:57:37 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.reporters.FailedReporter@676ff3b0: 10 ms
+2025-12-07 16:57:37 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.reporters.XMLReporter@15bc339: 9 ms
+2025-12-07 16:57:37 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6d171ce0: 10 ms
+2025-12-07 16:57:37 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5327a06e: 8 ms
+2025-12-07 16:57:37 INFO  org.testng.log4testng.Logger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2679311f: 0 ms
+2025-12-07 18:00:54 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\Master.xml
+
+2025-12-07 18:01:01 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:01:05 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2025-12-07 18:01:05 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2025-12-07 18:34:21 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\CrossBrowserTesting.xml
+
+2025-12-07 18:34:27 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:34:30 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2025-12-07 18:34:31 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2025-12-07 18:34:31 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:34:34 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:35:03 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\CrossBrowserTesting.xml
+
+2025-12-07 18:35:10 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:35:13 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2025-12-07 18:35:14 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2025-12-07 18:35:14 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:35:17 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:35:54 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\CrossBrowserTesting.xml
+
+2025-12-07 18:35:54 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:36:07 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:36:10 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2025-12-07 18:36:11 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2025-12-07 18:36:11 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:36:42 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\CrossBrowserTesting.xml
+
+2025-12-07 18:36:47 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:36:50 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2025-12-07 18:36:51 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2025-12-07 18:36:57 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:37:00 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2025-12-07 18:37:01 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2025-12-07 18:37:01 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:37:35 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\CrossBrowserTesting.xml
+
+2025-12-07 18:37:35 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:37:41 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:37:41 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:37:44 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2025-12-07 18:37:44 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Myaccount link**
+2025-12-07 18:37:45 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2025-12-07 18:37:45 INFO  testCases.TC_AccountRegistrationTest - **Clicked on Registration**
+2025-12-07 18:41:34 INFO  org.testng.log4testng.Logger - [TestNG] Running:
+  D:\SeleniumJavsWorkSpace\OpenCartV121\CrossBrowserTesting.xml
+
+2025-12-07 18:41:34 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
+2025-12-07 18:41:40 INFO  testCases.TC_AccountRegistrationTest - *** Starting TC_AccountRegistrationTest
